@@ -1,0 +1,6 @@
+users 表添加 current_step_id 字段
+步骤表 steps
+问卷表 questionnaires
+问题表 questions
+用户答案表 user_answers
+用户进度表 user_step_progress
